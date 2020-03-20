@@ -1,0 +1,20 @@
+.content{
+    background-color: rgb(63, 61, 61);
+    width: 310px;
+    height: 520px;
+    margin-left: 30em;
+    
+}
+button{
+    padding: 1em;
+    margin:5em 9em;
+    display: inline-block;
+    background-color: rgb(131, 26, 26);
+    border: none;
+    color: white;
+
+}
+button:hover{
+    cursor: pointer;
+    background-color: black;
+}
